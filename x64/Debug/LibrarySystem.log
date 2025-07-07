@@ -1,0 +1,15 @@
+﻿  LibrarySystem.cpp
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Libraries\StringLibraryProject\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(477,2): warning C4240: nonstandard extension used: access to 'clsBook::stBooksBorrowRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(46,9): message : see declaration of 'clsBook::stBooksBorrowRecord'
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(484,3): warning C4091: 'static ': ignored on left of 'clsBook::stBooksBorrowRecord' when no variable is declared
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(487,2): warning C4240: nonstandard extension used: access to 'clsBook::stBookSalesRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(97,9): message : see declaration of 'clsBook::stBookSalesRecord'
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(492,3): warning C4091: 'static ': ignored on left of 'clsBook::stBookSalesRecord' when no variable is declared
+C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\clsBook.h(474): warning C4715: 'clsBook::Save': not all control paths return a value
+  LibrarySystem.vcxproj -> C:\Users\Manaf Al Bukhari\source\Projects\LibrarySystem\x64\Debug\LibrarySystem.exe
